@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Manager Review"
+  short_description: "Review goals, risks, evidence, and next steps"
+  default_prompt: "Use $projectmanagerview to assess whether the proposed next step advances the project objective, manages risk, and avoids wasted effort."
