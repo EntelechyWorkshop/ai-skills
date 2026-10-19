@@ -6,13 +6,11 @@ Written by Muse; reviewed and packaged by Entelechy Workshop. The file layout be
 
 ## Save it, not just describe it
 
-1. Download and unzip a skill. Attach `SKILL.md`, `skill.yaml`, and `LICENSE` to Muse.
-2. Ask Muse to check for an existing skill with the same purpose before creating another.
-3. Ask it to save the actual files as a reusable skill, then read them back and confirm the name, location, and when it will use them.
+1. Download and unzip a skill, then attach its files to Muse.
+2. Ask: “Save this as a reusable skill. Create the actual files, keep the license, and confirm where you saved them.”
+3. Ask Muse to use it by name in a new conversation.
 
-You can paste this request:
-
-> Please install these files as a reusable Muse skill, not just summarize them. First check for an existing version. Confirm the skill format and save location supported in this session, preserve the included license, and read back the saved name, trigger, and file paths. If you cannot save it, tell me what is missing rather than saying it is installed.
+The tested location is `~/workspace/custom-skills/<skill_name>/`. Muse should check for an existing version and confirm the supported location in your session. If it cannot save files, it should say so rather than claim the skill is installed.
 
 Do not include passwords, tokens, private account details, or personal project information in a public skill.
 
