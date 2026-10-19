@@ -1,0 +1,5 @@
+name: "school_activity_sweep"
+title: "School & Activity Sweep"
+description: "Bring school emails, class updates, and team schedules into one digest. Keep track of dates and things to do."
+category: "Everyday life"
+include_in_prompt: true
