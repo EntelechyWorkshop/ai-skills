@@ -14,15 +14,29 @@ Get a clear wrap-up when an AI assistant finishes a task: what you wanted, what 
 
 ## Muse
 
-Skills built specifically for Muse will appear here. None are published yet.
+### Goal Loop
+
+Work toward a clear goal in checked steps, until it is done or an agreed limit is reached.
+
+[Read the skill](muse/goal_loop/SKILL.md) · [Setup](muse/goal_loop/README.md)
+
+### Goal Loop: Deep Research
+
+Research in rounds, check the sources, and challenge the conclusion before calling it done.
+
+[Read the skill](muse/goal_loop_deep_research/SKILL.md) · [Setup](muse/goal_loop_deep_research/README.md)
+
+These are active, bounded workflows for Muse, distinct from its ongoing background goals. Written by Muse and reviewed and packaged by Entelechy Workshop. The original workflows were owner-tested; this packaged revision has not been independently run in Muse.
+
+[Creating a Skill for Muse — full setup guide](guides/creating-a-skill-for-muse.md)
 
 ## Use it
 
-**In a chat:** open the skill above, copy its contents into your AI assistant, and ask it to use this format when finishing tasks. For an ongoing preference, save it in your assistant's instructions where supported. Pasting it into one chat does not enable it everywhere.
+**Shared skill, in a chat:** open the skill above, copy its contents into your AI assistant, and ask it to use this format when finishing tasks. For an ongoing preference, save it in your assistant's instructions where supported. Pasting it into one chat does not enable it everywhere.
 
-**With an assistant that supports skill folders:** download and unzip the library, then install the `skills/project-manager-task-report` folder using that assistant's documented skill installation method. Keep the included license with it.
+**Shared skill, with an assistant that supports skill folders:** download and unzip the library, then install the `skills/project-manager-task-report` folder using that assistant's documented skill installation method. Keep the included license with it.
 
-This is a Markdown instruction file. It contains no executable scripts and needs no accounts or integrations. Each assistant decides how to load and follow instructions; we do not promise identical results across products.
+These are instruction files, with no bundled executable scripts. Research skills use whatever tools your assistant already has available and is authorized to use. Each assistant decides how to load and follow instructions; we do not promise identical results across products.
 
 ## No support
 
