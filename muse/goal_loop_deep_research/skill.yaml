@@ -1,0 +1,5 @@
+name: "goal_loop_deep_research"
+title: "Goal Loop: Deep Research"
+description: "Research a question in rounds, check the evidence, and pressure-test the conclusion. Use for a substantial research question with a defined finish line."
+category: "Work and knowledge"
+include_in_prompt: true
