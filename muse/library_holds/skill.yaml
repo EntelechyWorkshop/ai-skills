@@ -1,0 +1,5 @@
+name: "library_holds"
+title: "Library Holds"
+description: "Find library books, place holds, and get pickup reminders based on the latest library status."
+category: "Everyday life"
+include_in_prompt: true
