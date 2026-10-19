@@ -12,6 +12,12 @@ Get a clear wrap-up when an AI assistant finishes a task: what you wanted, what 
 
 [Read the skill](skills/project-manager-task-report/SKILL.md) · [Download the library](https://github.com/EntelechyWorkshop/ai-skills/archive/refs/heads/main.zip)
 
+### Project Manager Review
+
+Check whether the next step moves your project toward its real goal. Catch wasted effort and decide what to do next.
+
+[Read the skill](skills/projectmanagerview/SKILL.md) · [Download](https://entelechyworkshop.com/downloads/project-manager-review.zip)
+
 ## Muse
 
 ### Goal Loop
@@ -26,7 +32,21 @@ Research in rounds, check the sources, and challenge the conclusion before calli
 
 [Read the skill](muse/goal_loop_deep_research/SKILL.md) · [Setup](muse/goal_loop_deep_research/README.md)
 
-These are active, bounded workflows for Muse, distinct from its ongoing background goals. Written by Muse and reviewed and packaged by Entelechy Workshop. The original workflows were owner-tested; this packaged revision has not been independently run in Muse.
+The two Goal Loop skills are active, bounded workflows for Muse, distinct from its ongoing background goals. Written by Muse and reviewed and packaged by Entelechy Workshop. The original workflows were owner-tested; this packaged revision has not been independently run in Muse.
+
+### Library Holds
+
+Find library books, place holds, and get pickup reminders based on the latest library status.
+
+[Read the skill](muse/library_holds/SKILL.md) · [Download](https://entelechyworkshop.com/downloads/library-holds-muse.zip)
+
+### School & Activity Sweep
+
+Bring school emails, class updates, and team schedules into one digest. Keep track of dates and things to do.
+
+[Read the skill](muse/school_activity_sweep/SKILL.md) · [Download](https://entelechyworkshop.com/downloads/school-activity-sweep-muse.zip)
+
+These two workflows use the accounts and sources you authorize. Recurring checks require a schedule configured in Muse. The packaged revisions have not been independently executed there.
 
 [Creating a Skill for Muse — full setup guide](guides/creating-a-skill-for-muse.md)
 
