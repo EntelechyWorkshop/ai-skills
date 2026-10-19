@@ -1,0 +1,5 @@
+name: "goal_loop"
+title: "Goal Loop"
+description: "Work toward a clear goal in checked steps. Use when asked to keep working until the agreed result or stopping limit is reached."
+category: "Work and knowledge"
+include_in_prompt: true
