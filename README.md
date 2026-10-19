@@ -2,11 +2,18 @@
 
 Free skills we use to make working with AI assistants more useful and straightforward.
 
-## Project Manager Task Report
+## Claude & Codex / ChatGPT Work
 
+Shared instruction-based skills for these assistants. How you install or save them depends on the product you use.
+
+### Project Manager Task Report
 Get a clear wrap-up when an AI assistant finishes a task: what you wanted, what actually happened, what is blocked, and what to do next. The skill also works for incomplete tasks and handoffs, so a polished response does not hide unfinished work.
 
-[Read the skill](skills/project-manager-task-report/SKILL.md) · [Download the library](https://github.com/EntelechyWorkshop/ai-skills/archive/refs/heads/main.zip)
+[Read the skill## Muse
+
+Skills built specifically for Muse will appear here. None are published yet.
+
+## Use itproject-manager-task-report/SKILL.md) · [Download the library](https://github.com/EntelechyWorkshop/ai-skills/archive/refs/heads/main.zip)
 
 ## Use it
 
